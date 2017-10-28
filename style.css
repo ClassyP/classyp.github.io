@@ -5,16 +5,14 @@
 }
 
 .jumbotron {
-  color: #333;
-  background: #ccc;
+  color: : black;
+  background-color: white;
   font-family: 'Roboto';
 }
 
 .body {
-	background: #777;
-	color:#ebebeb;
-	width:960px;
   font-family: 'Lato';
-  color: red;
+  color: black;
+  float: left;
 }
 
