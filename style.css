@@ -1,0 +1,20 @@
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.jumbotron {
+  color: #333;
+  background: #ccc;
+  font-family: 'Roboto';
+}
+
+.body {
+	background: #777;
+	color:#ebebeb;
+	width:960px;
+  font-family: 'Lato';
+  color: red;
+}
+
