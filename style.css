@@ -1,18 +1,1 @@
 
-* {
-  box-sizing: border-box;
-  text-align: center;
-}
-
-.jumbotron {
-  color: : black;
-  background-color: white;
-  font-family: 'Roboto';
-}
-
-.body {
-  font-family: 'Lato';
-  color: black;
-  float: left;
-}
-
